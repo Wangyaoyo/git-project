@@ -13,5 +13,6 @@ public class UserDao {
         System.out.println("master");
         System.out.println("push code");
         System.out.println("push code use ssh");
+        System.out.println("add code from origin");
     }
 }
